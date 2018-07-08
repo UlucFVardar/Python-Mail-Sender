@@ -1,0 +1,2 @@
+EMAIL_ADDRESS = "Your Mail"
+PASSWORD = "PASSWORD"
