@@ -37,4 +37,4 @@ def sendMail(toSendMail,msgOfTheMail,subject,filePath):
 	except e:
 		print (e)
 
-sendMail("vardaru@mef.edu.tr","deneme Maili","test","/Users/uluc/Desktop/firstSparkCode.py")
+sendMail("ulucfurkanvardar@gmail.com","test e-mail","SUB:test","/Users/uluc/Desktop/firstMailatc.txt")
